@@ -1,0 +1,1152 @@
+[ 25/09/20 01:02:52.385 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b3 (exit)
+[ 25/09/20 01:02:52.631 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b3 (exit)
+[ 25/09/20 01:03:26.217 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c6 (exit)
+[ 25/09/20 01:07:27.840 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 25/09/20 01:07:27.841 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040008f (blackbird@satellite: ~)
+[ 25/09/20 01:07:27.841 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a3 ((null))
+[ 25/09/20 01:07:27.853 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 25/09/20 01:46:07.413 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a0048b.
+[ 25/09/20 01:46:07.427 paint_one ERROR ] Failed to bind texture for window 0x0160007b.
+[ 25/09/20 01:46:07.427 paint_one ERROR ] Window 0x0160007b is missing painting data.
+[ 25/09/20 01:54:00.195 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c8 (exit)
+[ 25/09/20 02:05:28.372 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a007d9.
+[ 25/09/20 02:05:28.372 paint_one ERROR ] Failed to bind texture for window 0x0160011d.
+[ 25/09/20 02:05:28.372 paint_one ERROR ] Window 0x0160011d is missing painting data.
+[ 25/09/20 11:15:32.862 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b7 (Fire)
+[ 25/09/20 11:41:12.322 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c9 (exit)
+[ 25/09/20 11:41:12.581 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c9 (exit)
+[ 25/09/20 11:52:36.214 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000e2 (FowsniffCorp - Pastebin.com - Mozilla Firefox)
+[ 25/09/20 12:02:46.660 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ef (exit)
+[ 25/09/20 12:03:04.894 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f6 (exit)
+[ 25/09/20 12:40:29.351 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d8 (exit)
+[ 25/09/20 12:40:47.587 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01210.
+[ 25/09/20 12:40:47.588 paint_one ERROR ] Failed to bind texture for window 0x01200018.
+[ 25/09/20 12:40:47.588 paint_one ERROR ] Window 0x01200018 is missing painting data.
+[ 25/09/20 12:53:11.603 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040015d (exit)
+[ 25/09/20 13:43:51.754 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a00582.
+[ 25/09/20 13:43:51.754 paint_one ERROR ] Failed to bind texture for window 0x004000be.
+[ 25/09/20 13:43:51.754 paint_one ERROR ] Window 0x004000be is missing painting data.
+[ 25/09/20 14:04:46.107 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a00637.
+[ 25/09/20 14:04:46.134 paint_one ERROR ] Failed to bind texture for window 0x004000be.
+[ 25/09/20 14:04:46.134 paint_one ERROR ] Window 0x004000be is missing painting data.
+[ 25/09/20 14:04:48.193 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400165 (Quit and close tabs?)
+[ 25/09/20 14:04:48.214 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400165 (Quit and close tabs?)
+[ 25/09/20 14:04:48.357 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400165 (Quit and close tabs?)
+[ 25/09/20 14:04:48.369 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400165 (Quit and close tabs?)
+[ 25/09/20 14:06:22.217 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040014f (exit)
+[ 25/09/20 14:06:27.834 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040017c (exit)
+[ 25/09/20 14:06:28.068 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040017c (exit)
+[ 25/09/20 14:11:03.470 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a7 (@$ bluey - Discord)
+[ 25/09/20 14:11:11.199 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018d (Quit and close tabs?)
+[ 25/09/20 16:16:23.650 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001a8 (exit)
+[ 25/09/20 18:20:17.601 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001b5 (Establishing a Connection)
+[ 25/09/20 18:23:42.405 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001d7 (Enter name of file to save to…)
+[ 25/09/20 18:25:56.980 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400208 (Open a Torrent)
+[ 25/09/20 18:25:58.279 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400211 ((null))
+[ 25/09/20 22:43:23.165 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (Kodi)
+[ 25/09/20 22:43:23.245 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (Kodi)
+[ 25/09/20 22:43:23.314 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (Kodi)
+[ 25/09/20 22:44:10.190 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.190 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.190 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.281 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400099 (i3bar for output eDP1)
+[ 25/09/20 22:44:10.302 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.302 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.302 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.338 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400099 (i3bar for output eDP1)
+[ 25/09/20 22:44:10.339 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.339 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.339 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.368 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.368 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.368 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.374 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400099 (i3bar for output eDP1)
+[ 25/09/20 22:44:10.383 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.383 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.383 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.432 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.432 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.432 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.534 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.534 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.534 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 25/09/20 22:44:10.686 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a002eb.
+[ 25/09/20 22:44:10.686 paint_one ERROR ] Failed to bind texture for window 0x00400099.
+[ 25/09/20 22:44:10.686 paint_one ERROR ] Window 0x00400099 is missing painting data.
+[ 26/09/20 01:42:05.121 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f4 (Kodi)
+[ 26/09/20 10:26:47.476 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400091 (i3bar for output eDP1)
+[ 26/09/20 10:26:47.548 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400091 (i3bar for output eDP1)
+[ 26/09/20 11:35:34.554 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f1 (Discord Updater)
+[ 26/09/20 11:59:40.975 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000fe (Discord)
+[ 26/09/20 12:00:22.760 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010e (ips vs led at DuckDuckGo - Mozilla Firefox)
+[ 26/09/20 12:15:41.206 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007b9.
+[ 26/09/20 12:15:41.230 paint_one ERROR ] Failed to bind texture for window 0x0160008b.
+[ 26/09/20 12:15:41.230 paint_one ERROR ] Window 0x0160008b is missing painting data.
+[ 26/09/20 12:28:48.705 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040011c (Discord)
+[ 26/09/20 12:30:18.320 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400128 (Transmission)
+[ 26/09/20 12:35:12.666 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040008f (blackbird@satellite: ~)
+[ 26/09/20 13:53:56.419 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400135 (exit)
+[ 26/09/20 14:13:00.145 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001ae (Save Image)
+[ 26/09/20 14:14:24.180 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001ca (Save Image)
+[ 26/09/20 15:23:22.684 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c016f1.
+[ 26/09/20 15:23:22.724 paint_one ERROR ] Failed to bind texture for window 0x004001e4.
+[ 26/09/20 15:23:22.725 paint_one ERROR ] Window 0x004001e4 is missing painting data.
+[ 26/09/20 15:33:58.256 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400201 (Settings — ~/Documents/sealife — Atom)
+[ 26/09/20 15:50:11.319 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01f7f.
+[ 26/09/20 15:50:11.370 paint_one ERROR ] Failed to bind texture for window 0x00400154.
+[ 26/09/20 15:50:11.370 paint_one ERROR ] Window 0x00400154 is missing painting data.
+[ 26/09/20 15:50:11.375 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01f7f.
+[ 26/09/20 15:50:11.375 paint_one ERROR ] Failed to bind texture for window 0x00400154.
+[ 26/09/20 15:50:11.375 paint_one ERROR ] Window 0x00400154 is missing painting data.
+[ 26/09/20 15:50:11.398 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01f7f.
+[ 26/09/20 15:50:11.398 paint_one ERROR ] Failed to bind texture for window 0x00400154.
+[ 26/09/20 15:50:11.398 paint_one ERROR ] Window 0x00400154 is missing painting data.
+[ 26/09/20 15:56:28.275 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c020bc.
+[ 26/09/20 15:56:28.275 paint_one ERROR ] Failed to bind texture for window 0x0040020e.
+[ 26/09/20 15:56:28.275 paint_one ERROR ] Window 0x0040020e is missing painting data.
+[ 26/09/20 15:56:28.279 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c020bc.
+[ 26/09/20 15:56:28.279 paint_one ERROR ] Failed to bind texture for window 0x0040020e.
+[ 26/09/20 15:56:28.279 paint_one ERROR ] Window 0x0040020e is missing painting data.
+[ 26/09/20 16:50:11.894 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040022c (Opening repository.kodibae-master.zip)
+[ 26/09/20 16:50:51.321 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001ee (Discord)
+[ 26/09/20 17:07:41.179 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400222 (Kodi)
+[ 26/09/20 17:14:51.315 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0271e.
+[ 26/09/20 17:14:51.315 paint_one ERROR ] Failed to bind texture for window 0x00400154.
+[ 26/09/20 17:14:51.315 paint_one ERROR ] Window 0x00400154 is missing painting data.
+[ 26/09/20 19:38:14.285 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400267 (exit)
+[ 26/09/20 19:38:20.646 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400217 (exit)
+[ 26/09/20 22:02:12.457 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400154 (How To Create An Image Slider In HTML, CSS & Javascript - YouTube - Mozilla Firefox)
+[ 26/09/20 22:02:18.728 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040029d (exit)
+[ 26/09/20 22:56:56.855 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.889 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.889 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.892 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.892 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.892 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.903 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.903 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.904 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.920 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.920 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.920 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.939 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.939 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.939 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.953 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.953 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.953 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.970 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.970 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.970 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:56.987 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:56.987 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:56.987 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.003 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.003 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.003 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.021 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.021 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.021 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.037 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.037 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.037 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.054 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.054 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.054 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.073 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.073 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.073 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.088 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.088 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.088 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.104 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.104 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.104 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.122 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.122 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.123 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.137 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.137 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.137 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.153 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.153 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.154 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.170 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.170 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.170 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:56:57.186 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04472.
+[ 26/09/20 22:56:57.187 paint_one ERROR ] Failed to bind texture for window 0x01603737.
+[ 26/09/20 22:56:57.187 paint_one ERROR ] Window 0x01603737 is missing painting data.
+[ 26/09/20 22:57:56.102 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400300 (Opening Underwater Colorful Background.mp4)
+[ 26/09/20 23:35:23.971 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040032a (Opening mr-robot.zip)
+[ 26/09/20 23:37:45.303 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400315 (exit)
+[ 26/09/20 23:56:07.511 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400364 (exit)
+[ 26/09/20 23:59:45.984 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040036d (Add media files)
+[ 26/09/20 23:59:51.201 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400376 (Open media file)
+[ 27/09/20 00:01:26.485 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400388 (VidCutter)
+[ 27/09/20 00:01:27.458 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040035f (VidCutter - water-background.mp4)
+[ 27/09/20 00:01:27.551 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040035f (VidCutter - water-background.mp4)
+[ 27/09/20 00:06:27.005 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400398 (Opening water-background-EDIT.gif)
+[ 27/09/20 00:06:53.962 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c051fc.
+[ 27/09/20 00:06:53.984 paint_one ERROR ] Failed to bind texture for window 0x01600044.
+[ 27/09/20 00:06:53.984 paint_one ERROR ] Window 0x01600044 is missing painting data.
+[ 27/09/20 00:24:58.519 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003bf (Choose a colour)
+[ 27/09/20 12:26:31.373 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c0 (Quit and close tabs?)
+[ 27/09/20 12:32:26.063 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000fa (@$ bluey - Discord)
+[ 27/09/20 12:33:55.836 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040012f (Opening CSS Halycon Exercise Part2.docx)
+[ 27/09/20 12:33:56.086 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040012f (Opening CSS Halycon Exercise Part2.docx)
+[ 27/09/20 12:33:56.153 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040012f (Opening CSS Halycon Exercise Part2.docx)
+[ 27/09/20 12:33:58.191 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400126 (Opening CSS Halycon Exercise Part2.docx)
+[ 27/09/20 12:35:56.813 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400141 (LibreOffice)
+[ 27/09/20 13:53:38.051 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e3 (Save Image)
+[ 27/09/20 13:53:51.199 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400201 ((null))
+[ 27/09/20 13:53:51.482 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400201 ((null))
+[ 27/09/20 13:53:51.482 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001f8 (Save Image)
+[ 27/09/20 14:59:21.066 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a02057.
+[ 27/09/20 14:59:21.114 paint_one ERROR ] Failed to bind texture for window 0x04200017.
+[ 27/09/20 14:59:21.114 paint_one ERROR ] Window 0x04200017 is missing painting data.
+[ 27/09/20 15:01:24.949 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a02086.
+[ 27/09/20 15:01:24.949 paint_one ERROR ] Failed to bind texture for window 0x04200017.
+[ 27/09/20 15:01:24.949 paint_one ERROR ] Window 0x04200017 is missing painting data.
+[ 27/09/20 15:12:21.314 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023c9.
+[ 27/09/20 15:12:21.314 paint_one ERROR ] Failed to bind texture for window 0x0040015c.
+[ 27/09/20 15:12:21.314 paint_one ERROR ] Window 0x0040015c is missing painting data.
+[ 27/09/20 15:12:21.327 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023c9.
+[ 27/09/20 15:12:21.327 paint_one ERROR ] Failed to bind texture for window 0x0040015c.
+[ 27/09/20 15:12:21.327 paint_one ERROR ] Window 0x0040015c is missing painting data.
+[ 27/09/20 15:13:01.967 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0140acb2 (Firefox)
+[ 27/09/20 15:13:01.982 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:01.982 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:01.983 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:01.999 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:01.999 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:01.999 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.015 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.015 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.015 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.032 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.032 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.032 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.050 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.050 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.050 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.066 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.066 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.066 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.082 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.082 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.082 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.099 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.099 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.099 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.115 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.115 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.115 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.132 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.132 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.132 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.149 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.149 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.149 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.165 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.165 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.165 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.182 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.182 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.182 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.199 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.199 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.199 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.215 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.215 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.216 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.235 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.235 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.235 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:13:02.249 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a023eb.
+[ 27/09/20 15:13:02.249 paint_one ERROR ] Failed to bind texture for window 0x0140acb2.
+[ 27/09/20 15:13:02.249 paint_one ERROR ] Window 0x0140acb2 is missing painting data.
+[ 27/09/20 15:21:47.809 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a025bc.
+[ 27/09/20 15:21:47.842 paint_one ERROR ] Failed to bind texture for window 0x0040015c.
+[ 27/09/20 15:21:47.842 paint_one ERROR ] Window 0x0040015c is missing painting data.
+[ 27/09/20 15:26:46.562 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018d (exit)
+[ 27/09/20 15:30:56.033 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040014d (style2.css — ~/Documents/sealife — Atom)
+[ 27/09/20 15:30:56.094 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040014d (style2.css — ~/Documents/sealife — Atom)
+[ 27/09/20 15:32:23.122 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040028f (exit)
+[ 27/09/20 15:32:56.610 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002b3 (About Archive Manager)
+[ 27/09/20 15:32:56.950 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002b3 (About Archive Manager)
+[ 27/09/20 15:33:47.199 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002c8 (New Archive)
+[ 27/09/20 15:34:06.768 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002aa (exit)
+[ 27/09/20 15:34:07.802 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002c0 (blackbird@satellite: ~)
+[ 27/09/20 15:34:28.060 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002e1 (New Archive)
+[ 27/09/20 15:34:47.986 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002fd (Archive Manager)
+[ 27/09/20 15:36:56.556 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040031d (Opening Storage Media.docx)
+[ 27/09/20 15:38:11.975 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002de (sealife.zip )
+[ 27/09/20 15:38:12.303 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002de (sealife.zip )
+[ 27/09/20 15:40:06.980 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400360 (Select Folder to Upload)
+[ 27/09/20 15:41:50.830 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a02dbb.
+[ 27/09/20 15:41:50.830 paint_one ERROR ] Failed to bind texture for window 0x0040009a.
+[ 27/09/20 15:41:50.830 paint_one ERROR ] Window 0x0040009a is missing painting data.
+[ 27/09/20 16:18:51.040 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400350 (exit)
+[ 27/09/20 16:18:54.545 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003bd (exit)
+[ 27/09/20 16:19:54.026 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03720.
+[ 27/09/20 16:19:54.026 paint_one ERROR ] Failed to bind texture for window 0x03000013.
+[ 27/09/20 16:19:54.026 paint_one ERROR ] Window 0x03000013 is missing painting data.
+[ 27/09/20 16:20:14.287 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a0374d.
+[ 27/09/20 16:20:14.287 paint_one ERROR ] Failed to bind texture for window 0x03000013.
+[ 27/09/20 16:20:14.287 paint_one ERROR ] Window 0x03000013 is missing painting data.
+[ 27/09/20 16:20:17.652 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a0377a.
+[ 27/09/20 16:20:17.652 paint_one ERROR ] Failed to bind texture for window 0x03000013.
+[ 27/09/20 16:20:17.652 paint_one ERROR ] Window 0x03000013 is missing painting data.
+[ 27/09/20 16:23:32.428 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003e1 (New Archive)
+[ 27/09/20 16:24:09.428 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003f3 (Archive Manager)
+[ 27/09/20 16:25:40.243 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003fc (File Upload)
+[ 27/09/20 17:11:38.457 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003c7 (information.html — ~/Documents/sealife — Atom)
+[ 27/09/20 19:31:19.107 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040024d (@$ bluey - Discord)
+[ 27/09/20 19:36:48.512 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.513 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.513 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.521 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.521 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.521 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.533 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.534 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.534 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.550 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.550 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.550 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.574 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.574 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.574 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.584 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.584 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.584 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.603 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.603 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.603 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.617 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.617 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.617 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.634 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.634 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.634 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.650 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.650 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.651 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.667 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.667 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.667 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.684 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.684 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.684 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.701 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.701 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.701 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.717 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.717 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.717 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.734 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.734 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.734 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.750 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.750 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.751 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.767 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.767 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.768 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.784 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.784 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.784 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:36:48.801 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a03db1.
+[ 27/09/20 19:36:48.801 paint_one ERROR ] Failed to bind texture for window 0x03405d4f.
+[ 27/09/20 19:36:48.801 paint_one ERROR ] Window 0x03405d4f is missing painting data.
+[ 27/09/20 19:39:27.173 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003da (blackbird@satellite: ~/Documents)
+[ 27/09/20 19:39:27.189 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003da (blackbird@satellite: ~/Documents)
+[ 27/09/20 19:39:27.333 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003da (blackbird@satellite: ~/Documents)
+[ 27/09/20 19:39:27.501 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004003da (blackbird@satellite: ~/Documents)
+[ 27/09/20 20:53:53.219 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040047e (Quit and close tabs?)
+[ 27/09/20 20:53:54.104 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040009a (coax lcd controller at DuckDuckGo - Mozilla Firefox)
+[ 27/09/20 20:53:54.552 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040009a (coax lcd controller at DuckDuckGo - Mozilla Firefox)
+[ 28/09/20 15:16:21.718 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000af (Discord Updater)
+[ 28/09/20 15:16:45.697 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b6 (@$ bluey - Discord)
+[ 28/09/20 16:06:25.753 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040009b (a126q washing machine spare filter at DuckDuckGo - Mozilla Firefox)
+[ 28/09/20 16:07:05.988 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:05.988 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:05.988 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.006 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00460.
+[ 28/09/20 16:07:06.006 paint_one ERROR ] Failed to bind texture for window 0x004000db.
+[ 28/09/20 16:07:06.006 paint_one ERROR ] Window 0x004000db is missing painting data.
+[ 28/09/20 16:07:06.020 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.020 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.020 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.042 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.042 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.042 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.060 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.060 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.060 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.077 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.077 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.077 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.094 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.094 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.094 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.109 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.109 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.109 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.126 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.126 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.126 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.143 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.143 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.143 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.159 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.160 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.160 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.176 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.176 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.176 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.193 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.193 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.193 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.215 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.215 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.215 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.232 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.232 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.232 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.243 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.243 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.243 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.259 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.259 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.259 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.276 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.276 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.276 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.292 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.292 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.292 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:07:06.309 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00457.
+[ 28/09/20 16:07:06.309 paint_one ERROR ] Failed to bind texture for window 0x0040008f.
+[ 28/09/20 16:07:06.309 paint_one ERROR ] Window 0x0040008f is missing painting data.
+[ 28/09/20 16:10:02.251 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000db (rdesktop - rdfarm.walcat.ac.uk)
+[ 28/09/20 16:15:19.601 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400104 (exit)
+[ 28/09/20 16:15:19.893 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400104 (exit)
+[ 28/09/20 16:20:35.549 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0061d.
+[ 28/09/20 16:20:35.571 paint_one ERROR ] Failed to bind texture for window 0x03a0001c.
+[ 28/09/20 16:20:35.571 paint_one ERROR ] Window 0x03a0001c is missing painting data.
+[ 28/09/20 17:44:10.745 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040011f (@$ bluey - Discord)
+[ 28/09/20 18:11:21.274 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010b (~/Documents/sealife — Atom)
+[ 28/09/20 18:12:02.878 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040014f (untitled — Atom)
+[ 28/09/20 21:48:20.693 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400130 (@$ bluey - Discord)
+[ 28/09/20 22:02:08.056 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400185 (exit)
+[ 28/09/20 22:02:59.964 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400180 (Volume Control)
+[ 28/09/20 22:03:00.225 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400180 (Volume Control)
+[ 28/09/20 22:27:48.403 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0034f.
+[ 28/09/20 22:27:48.446 paint_one ERROR ] Failed to bind texture for window 0x01800032.
+[ 28/09/20 22:27:48.447 paint_one ERROR ] Window 0x01800032 is missing painting data.
+[ 28/09/20 23:03:24.229 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ce (Quit and close tabs?)
+[ 28/09/20 23:03:24.329 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ce (Quit and close tabs?)
+[ 28/09/20 23:03:24.330 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c2 (lian li white vs black - YouTube - Mozilla Firefox)
+[ 29/09/20 21:23:53.869 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000bb (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 29/09/20 21:23:55.844 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a2 (exit)
+[ 29/09/20 21:35:20.150 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 29/09/20 21:37:39.293 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 29/09/20 21:37:39.293 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 29/09/20 21:37:46.030 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400622 (i3bar for output eDP1)
+[ 29/09/20 21:37:46.030 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400622 (i3bar for output eDP1)
+[ 29/09/20 21:37:46.033 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.033 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.033 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.047 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.047 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.047 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.062 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.062 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.062 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.078 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.078 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.078 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.095 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.095 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.095 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.111 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.111 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.111 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.128 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.128 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.128 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.145 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.145 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.145 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.161 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.161 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.161 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.178 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.178 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.178 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.196 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.196 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.196 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.212 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.212 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.212 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.229 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.229 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.229 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.245 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.245 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.245 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 21:37:46.262 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00349.
+[ 29/09/20 21:37:46.262 paint_one ERROR ] Failed to bind texture for window 0x00400622.
+[ 29/09/20 21:37:46.262 paint_one ERROR ] Window 0x00400622 is missing painting data.
+[ 29/09/20 22:02:23.281 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 29/09/20 22:02:23.314 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 29/09/20 22:10:37.618 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ba ([i3 con] container around 0x55b7fa56ed20)
+[ 29/09/20 22:10:37.619 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a2 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 29/09/20 22:11:13.023 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000cc (Discord Updater)
+[ 29/09/20 22:30:00.872 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:00.975 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:00.975 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:00.978 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:00.978 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:00.978 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:00.989 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:00.989 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:00.989 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.001 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.001 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.002 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.018 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.018 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.018 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.035 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.035 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.035 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.051 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.051 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.051 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.068 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.068 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.068 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.085 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.085 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.085 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.101 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.101 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.101 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.119 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.119 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.119 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.135 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.135 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.135 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.155 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.155 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.155 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.168 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.168 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.168 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.185 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.185 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.185 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.201 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.202 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.202 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:30:01.218 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a004f7.
+[ 29/09/20 22:30:01.219 paint_one ERROR ] Failed to bind texture for window 0x00e000d2.
+[ 29/09/20 22:30:01.219 paint_one ERROR ] Window 0x00e000d2 is missing painting data.
+[ 29/09/20 22:48:52.885 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ee (exit)
+[ 29/09/20 22:48:53.048 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ee (exit)
+[ 30/09/20 08:23:34.193 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400095 (Discord Updater)
+[ 30/09/20 08:32:18.503 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000de (Screenshot)
+[ 30/09/20 08:33:36.171 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ce (exit)
+[ 30/09/20 08:34:33.779 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ec (Choose a Folder)
+[ 30/09/20 08:35:06.326 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000e6 (Configuration)
+[ 30/09/20 08:35:06.411 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000e6 (Configuration)
+[ 30/09/20 08:35:39.933 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400100 (flameshot)
+[ 30/09/20 08:35:40.088 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400100 (flameshot)
+[ 30/09/20 08:36:27.649 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010c (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 08:36:27.893 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010c (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 08:36:27.976 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010c (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 08:36:44.461 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400115 (exit)
+[ 30/09/20 08:50:54.814 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007ce.
+[ 30/09/20 08:50:54.857 paint_one ERROR ] Failed to bind texture for window 0x02201d28.
+[ 30/09/20 08:50:54.857 paint_one ERROR ] Window 0x02201d28 is missing painting data.
+[ 30/09/20 08:52:37.017 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040013c (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:00:43.955 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e5 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:00:44.139 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e5 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:00:44.312 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e5 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:04:29.907 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 30/09/20 09:04:29.951 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.562 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.562 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.564 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.589 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.589 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.596 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.597 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.599 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.599 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.599 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.606 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.606 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400215 (i3bar for output eDP1)
+[ 30/09/20 09:04:54.608 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.608 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.608 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.620 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.620 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.620 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.634 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.634 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.634 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.652 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.652 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.652 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.668 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.668 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.668 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.685 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.685 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.685 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.701 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.701 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.701 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.718 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.718 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.718 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.734 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.734 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.734 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.751 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.751 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.751 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.767 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.768 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.768 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.784 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.784 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.784 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.801 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.801 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.801 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.818 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.818 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.818 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.836 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.836 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.836 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.851 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.851 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.851 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:04:54.868 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e96.
+[ 30/09/20 09:04:54.868 paint_one ERROR ] Failed to bind texture for window 0x00400215.
+[ 30/09/20 09:04:54.868 paint_one ERROR ] Window 0x00400215 is missing painting data.
+[ 30/09/20 09:05:58.335 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400209 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:09:32.220 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400224 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:09:32.519 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400224 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:11:36.278 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0124b.
+[ 30/09/20 09:11:36.278 paint_one ERROR ] Failed to bind texture for window 0x04600014.
+[ 30/09/20 09:11:36.278 paint_one ERROR ] Window 0x04600014 is missing painting data.
+[ 30/09/20 09:12:05.872 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040023e (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:15:04.072 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400258 (exit)
+[ 30/09/20 09:20:48.827 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400407 (exit)
+[ 30/09/20 09:21:22.072 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400412 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:40:36.644 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400423 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 09:48:46.557 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400471 (Save Image)
+[ 30/09/20 09:49:34.324 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040047a (Course: Fundamentals of IT - Mozilla Firefox)
+[ 30/09/20 09:50:14.978 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00c60.
+[ 30/09/20 09:50:14.978 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 09:50:14.978 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 09:51:25.632 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00cb2.
+[ 30/09/20 09:51:25.632 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 09:51:25.632 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 09:51:25.740 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00cb8.
+[ 30/09/20 09:51:25.740 paint_one ERROR ] Failed to bind texture for window 0x00400135.
+[ 30/09/20 09:51:25.740 paint_one ERROR ] Window 0x00400135 is missing painting data.
+[ 30/09/20 09:51:25.782 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00cb8.
+[ 30/09/20 09:51:25.782 paint_one ERROR ] Failed to bind texture for window 0x00400135.
+[ 30/09/20 09:51:25.782 paint_one ERROR ] Window 0x00400135 is missing painting data.
+[ 30/09/20 09:52:53.763 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040044c ([wallbackup] (imported)-1.0 (RGB colour 8-bit gamma integer, GIMP built-in sRGB, 1 layer) 1920x1080 – GIMP)
+[ 30/09/20 09:55:23.691 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040049e (exit)
+[ 30/09/20 09:55:23.967 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040049e (exit)
+[ 30/09/20 10:19:30.407 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c012d8.
+[ 30/09/20 10:19:30.434 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 10:19:30.434 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 10:46:21.957 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01b30.
+[ 30/09/20 10:46:21.958 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 10:46:21.958 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 10:46:21.971 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01b30.
+[ 30/09/20 10:46:21.971 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 10:46:21.971 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 10:46:21.995 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01b30.
+[ 30/09/20 10:46:21.995 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 10:46:21.995 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 10:46:49.755 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bbd.
+[ 30/09/20 10:46:49.755 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 10:46:49.755 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 10:46:49.781 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bc6.
+[ 30/09/20 10:46:49.781 paint_one ERROR ] Failed to bind texture for window 0x004004a6.
+[ 30/09/20 10:46:49.781 paint_one ERROR ] Window 0x004004a6 is missing painting data.
+[ 30/09/20 10:46:49.842 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bbd.
+[ 30/09/20 10:46:49.842 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 10:46:49.842 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 10:46:49.844 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bc6.
+[ 30/09/20 10:46:49.844 paint_one ERROR ] Failed to bind texture for window 0x004004a6.
+[ 30/09/20 10:46:49.844 paint_one ERROR ] Window 0x004004a6 is missing painting data.
+[ 30/09/20 10:46:49.866 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bbd.
+[ 30/09/20 10:46:49.897 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 10:46:49.897 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 10:46:49.897 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01bc6.
+[ 30/09/20 10:46:49.897 paint_one ERROR ] Failed to bind texture for window 0x004004a6.
+[ 30/09/20 10:46:49.897 paint_one ERROR ] Window 0x004004a6 is missing painting data.
+[ 30/09/20 10:47:08.231 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004004a4 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 11:11:30.502 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c01f11.
+[ 30/09/20 11:11:30.541 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 11:11:30.541 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 11:25:46.994 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400249 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 11:28:06.865 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02346.
+[ 30/09/20 11:28:06.889 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 11:28:06.889 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 11:28:06.897 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02346.
+[ 30/09/20 11:28:06.897 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 11:28:06.897 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 11:28:06.925 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02346.
+[ 30/09/20 11:28:06.925 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 11:28:06.925 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 11:28:06.942 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02346.
+[ 30/09/20 11:28:06.943 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 11:28:06.943 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 11:28:55.521 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0236e.
+[ 30/09/20 11:28:55.521 paint_one ERROR ] Failed to bind texture for window 0x03200017.
+[ 30/09/20 11:28:55.521 paint_one ERROR ] Window 0x03200017 is missing painting data.
+[ 30/09/20 11:39:19.968 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0262a.
+[ 30/09/20 11:39:20.023 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 11:39:20.023 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 11:52:47.509 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02b19.
+[ 30/09/20 11:52:47.521 paint_one ERROR ] Failed to bind texture for window 0x04600014.
+[ 30/09/20 11:52:47.521 paint_one ERROR ] Window 0x04600014 is missing painting data.
+[ 30/09/20 11:54:50.521 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040051a (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 11:57:47.761 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400135 (Spotify Free)
+[ 30/09/20 12:03:55.804 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c02fa7.
+[ 30/09/20 12:03:55.896 paint_one ERROR ] Failed to bind texture for window 0x00400524.
+[ 30/09/20 12:03:55.896 paint_one ERROR ] Window 0x00400524 is missing painting data.
+[ 30/09/20 12:03:57.622 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400551 (exit)
+[ 30/09/20 12:03:57.680 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400551 (exit)
+[ 30/09/20 12:03:57.781 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400551 (exit)
+[ 30/09/20 12:05:25.727 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400585 (Volume Control)
+[ 30/09/20 12:17:31.933 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005af (Opening Task 2 - Identify the Software.docx)
+[ 30/09/20 12:26:10.257 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:26:10.303 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:26:10.349 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:26:10.515 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:26:10.621 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:26:10.666 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005f2 (Confirm File Format)
+[ 30/09/20 12:27:52.922 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004005fb (Save)
+[ 30/09/20 12:27:56.859 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0376b.
+[ 30/09/20 12:27:56.859 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 12:27:56.859 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 12:29:48.910 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400524 (exit)
+[ 30/09/20 12:37:06.568 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400630 (exit)
+[ 30/09/20 12:37:06.874 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400630 (exit)
+[ 30/09/20 12:39:07.023 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400636 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 13:25:16.028 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.028 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.028 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.042 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.043 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.043 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.058 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.058 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.058 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.075 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.075 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.075 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.092 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.092 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.092 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.108 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.108 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.108 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:25:16.124 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03c21.
+[ 30/09/20 13:25:16.124 paint_one ERROR ] Failed to bind texture for window 0x00400649.
+[ 30/09/20 13:25:16.124 paint_one ERROR ] Window 0x00400649 is missing painting data.
+[ 30/09/20 13:31:45.160 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400664 (Opening 2.2 Information Classification 2.3 Quality of Information.pptx)
+[ 30/09/20 13:31:45.218 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400664 (Opening 2.2 Information Classification 2.3 Quality of Information.pptx)
+[ 30/09/20 13:32:39.338 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400647 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 13:39:01.419 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c03f87.
+[ 30/09/20 13:39:01.684 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 13:39:01.684 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 13:55:38.257 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c041b9.
+[ 30/09/20 13:55:38.632 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 13:55:38.834 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 14:04:20.354 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0443c.
+[ 30/09/20 14:04:20.844 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 14:04:20.844 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 14:19:40.006 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004006b5 (Save)
+[ 30/09/20 14:20:49.643 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0481e.
+[ 30/09/20 14:20:49.643 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 14:20:49.643 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 14:21:03.998 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004006d3 (exit)
+[ 30/09/20 14:24:40.136 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004006dc (Opening Information Styles.pptx)
+[ 30/09/20 14:30:20.760 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400703 (File Upload)
+[ 30/09/20 14:30:48.024 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c04c0d.
+[ 30/09/20 14:30:48.140 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 14:30:48.140 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 14:40:44.994 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05000.
+[ 30/09/20 14:40:45.082 paint_one ERROR ] Failed to bind texture for window 0x04600014.
+[ 30/09/20 14:40:45.083 paint_one ERROR ] Window 0x04600014 is missing painting data.
+[ 30/09/20 15:15:12.861 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0531a.
+[ 30/09/20 15:15:12.957 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:15:12.957 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:15:12.962 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05320.
+[ 30/09/20 15:15:12.962 paint_one ERROR ] Failed to bind texture for window 0x0040009c.
+[ 30/09/20 15:15:12.962 paint_one ERROR ] Window 0x0040009c is missing painting data.
+[ 30/09/20 15:34:37.229 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040073b (Save)
+[ 30/09/20 15:36:28.257 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c055bd.
+[ 30/09/20 15:36:28.257 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:36:28.257 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:36:28.278 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c055bd.
+[ 30/09/20 15:36:28.278 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:36:28.278 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:36:28.284 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c055bd.
+[ 30/09/20 15:36:28.284 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:36:28.284 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:36:28.313 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c055bd.
+[ 30/09/20 15:36:28.316 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:36:28.316 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:36:28.334 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c055bd.
+[ 30/09/20 15:36:28.334 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:36:28.334 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:38:39.476 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0564d.
+[ 30/09/20 15:38:39.476 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:38:39.476 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:38:39.489 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0564d.
+[ 30/09/20 15:38:39.490 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:38:39.490 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:38:39.509 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0564d.
+[ 30/09/20 15:38:39.509 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:38:39.509 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:38:39.525 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0564d.
+[ 30/09/20 15:38:39.525 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:38:39.525 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:38:39.558 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0564d.
+[ 30/09/20 15:38:39.558 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:38:39.558 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:39:12.425 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05692.
+[ 30/09/20 15:39:12.425 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:39:12.425 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:39:12.462 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05692.
+[ 30/09/20 15:39:12.462 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 15:39:12.462 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 15:44:29.873 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400768 (Opening Files.zip)
+[ 30/09/20 15:45:35.226 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05883.
+[ 30/09/20 15:45:35.243 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 15:45:35.243 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 15:45:35.251 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05883.
+[ 30/09/20 15:45:35.251 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 15:45:35.251 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 15:59:40.431 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05a98.
+[ 30/09/20 15:59:40.451 paint_one ERROR ] Failed to bind texture for window 0x0040079d.
+[ 30/09/20 15:59:40.451 paint_one ERROR ] Window 0x0040079d is missing painting data.
+[ 30/09/20 15:59:40.474 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05aa1.
+[ 30/09/20 15:59:40.474 paint_one ERROR ] Failed to bind texture for window 0x0040079b.
+[ 30/09/20 15:59:40.474 paint_one ERROR ] Window 0x0040079b is missing painting data.
+[ 30/09/20 16:04:35.521 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040079b (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 16:13:47.456 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004007c8 (Storyboarder)
+[ 30/09/20 16:13:55.345 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05dab.
+[ 30/09/20 16:13:55.345 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 16:13:55.345 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 16:13:55.375 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c05dab.
+[ 30/09/20 16:13:55.375 paint_one ERROR ] Failed to bind texture for window 0x004000c2.
+[ 30/09/20 16:13:55.375 paint_one ERROR ] Window 0x004000c2 is missing painting data.
+[ 30/09/20 16:15:25.119 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004007d7 (Storyboarder)
+[ 30/09/20 16:21:35.786 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004007fc (Loading gameStoryBoard)
+[ 30/09/20 16:21:35.990 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004007fc (Loading gameStoryBoard)
+[ 30/09/20 16:21:36.120 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004007fc (Loading gameStoryBoard)
+[ 30/09/20 16:23:36.564 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0623e.
+[ 30/09/20 16:23:36.588 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 16:23:36.588 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 16:28:13.705 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040082f ([i3 con] container around 0x55bf93bb4f60)
+[ 30/09/20 16:36:06.870 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c064bf.
+[ 30/09/20 16:36:06.927 paint_one ERROR ] Failed to bind texture for window 0x004001dc.
+[ 30/09/20 16:36:06.927 paint_one ERROR ] Window 0x004001dc is missing painting data.
+[ 30/09/20 16:36:25.227 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040083d (exit)
+[ 30/09/20 16:36:25.333 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040083d (exit)
+[ 30/09/20 16:38:27.576 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0655a.
+[ 30/09/20 16:38:27.680 paint_one ERROR ] Failed to bind texture for window 0x0260003a.
+[ 30/09/20 16:38:27.680 paint_one ERROR ] Window 0x0260003a is missing painting data.
+[ 30/09/20 16:38:52.731 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400853 (Open Image)
+[ 30/09/20 16:39:02.312 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040085e (Create a New Image)
+[ 30/09/20 16:39:12.826 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c065da.
+[ 30/09/20 16:39:12.983 paint_one ERROR ] Failed to bind texture for window 0x02202527.
+[ 30/09/20 16:39:12.983 paint_one ERROR ] Window 0x02202527 is missing painting data.
+[ 30/09/20 16:41:56.915 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c06641.
+[ 30/09/20 16:41:56.978 paint_one ERROR ] Failed to bind texture for window 0x04600014.
+[ 30/09/20 16:41:56.979 paint_one ERROR ] Window 0x04600014 is missing painting data.
+[ 30/09/20 16:45:29.046 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c06758.
+[ 30/09/20 16:45:29.095 paint_one ERROR ] Failed to bind texture for window 0x02205d82.
+[ 30/09/20 16:45:29.098 paint_one ERROR ] Window 0x02205d82 is missing painting data.
+[ 30/09/20 16:46:13.682 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400882 (Confirm Scaling)
+[ 30/09/20 16:46:13.689 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400882 (Confirm Scaling)
+[ 30/09/20 16:47:29.183 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c0685a.
+[ 30/09/20 16:47:29.274 paint_one ERROR ] Failed to bind texture for window 0x02208436.
+[ 30/09/20 16:47:29.275 paint_one ERROR ] Window 0x02208436 is missing painting data.
+[ 30/09/20 16:57:22.417 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400095 (Discord Updater)
+[ 30/09/20 17:01:28.253 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d5 (exit)
+[ 30/09/20 17:01:28.561 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d5 (exit)
+[ 30/09/20 17:07:41.046 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400115 (Spotify)
+[ 30/09/20 17:14:40.567 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400139 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 17:17:45.518 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00988.
+[ 30/09/20 17:17:45.866 paint_one ERROR ] Failed to bind texture for window 0x03c0005f.
+[ 30/09/20 17:17:45.866 paint_one ERROR ] Window 0x03c0005f is missing painting data.
+[ 30/09/20 17:21:26.032 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040012f (Volume Control)
+[ 30/09/20 17:28:37.853 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d5 (exit)
+[ 30/09/20 17:31:43.955 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f1 (Discord Updater)
+[ 30/09/20 17:32:33.364 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f8 (@$ bluey - Discord)
+[ 30/09/20 17:33:27.745 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400108 (Discord Updater)
+[ 30/09/20 17:36:32.364 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400116 (Opening BetterDiscordApp-1.0.0.tar.gz)
+[ 30/09/20 17:37:54.177 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ce (exit)
+[ 30/09/20 17:37:54.432 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ce (exit)
+[ 30/09/20 17:55:25.542 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040012f (Discord Updater)
+[ 30/09/20 18:14:44.825 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400144 (Authentication Required - Mozilla Firefox)
+[ 30/09/20 18:22:07.237 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400156 (exit)
+[ 30/09/20 18:23:36.668 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400136 (@$ bluey - Discord)
+[ 30/09/20 18:49:09.486 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 30/09/20 18:49:09.487 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400089 (i3bar for output eDP1)
+[ 30/09/20 19:09:09.772 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018a (i3bar for output eDP1)
+[ 30/09/20 19:09:09.773 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018a (i3bar for output eDP1)
+[ 30/09/20 19:09:09.775 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.814 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.814 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.817 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018a (i3bar for output eDP1)
+[ 30/09/20 19:09:09.817 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040018a (i3bar for output eDP1)
+[ 30/09/20 19:09:09.817 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040017d (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 19:09:09.818 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.818 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.818 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.827 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.827 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.827 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.846 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.861 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.861 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.866 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.866 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.867 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.897 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.897 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.897 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.912 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.912 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.912 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.928 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.929 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.929 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.944 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.944 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.944 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.962 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.962 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.962 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.979 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.979 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.979 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:09.996 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:09.996 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:09.996 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.012 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.012 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.013 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.028 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.028 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.028 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.045 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.045 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.045 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.062 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.063 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.063 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.079 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.080 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.080 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.095 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.095 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.095 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:09:10.113 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c007f9.
+[ 30/09/20 19:09:10.114 paint_one ERROR ] Failed to bind texture for window 0x0040018a.
+[ 30/09/20 19:09:10.114 paint_one ERROR ] Window 0x0040018a is missing painting data.
+[ 30/09/20 19:37:31.248 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400197 (That’s the point of the book! : facepalm - Mozilla Firefox)
+[ 30/09/20 19:50:59.148 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400172 (exit)
+[ 30/09/20 19:59:22.218 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001a0 (exit)
+[ 30/09/20 20:12:35.544 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001b9 (Save File)
+[ 30/09/20 20:35:16.989 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e3 (@$ bluey - Discord)
+[ 30/09/20 20:35:17.188 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001e3 (@$ bluey - Discord)
+[ 30/09/20 20:38:58.370 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001d8 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 20:47:50.051 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001a9 (automater.py — ~/Documents/projects/bash/youtube-dl — Atom)
+[ 30/09/20 20:49:37.764 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040041e (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 20:51:51.114 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400429 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 20:51:51.330 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400429 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 20:56:33.142 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400461 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 20:58:58.127 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400470 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 21:04:01.475 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040048f (Opening needfspd.zip)
+[ 30/09/20 21:04:18.976 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400499 (Opening needfspd.zip)
+[ 30/09/20 21:15:10.280 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004004b4 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 21:58:41.125 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 22:17:36.863 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b0 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 30/09/20 22:17:40.590 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a5 (exit)
+[ 30/09/20 22:18:11.590 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000bd (Discord Updater)
+[ 30/09/20 22:19:48.078 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000cf (Kodi)
+[ 30/09/20 22:19:48.090 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000cf (Kodi)
+[ 30/09/20 22:19:48.167 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000cf (Kodi)
+[ 30/09/20 22:20:56.168 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.168 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.182 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.182 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.182 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.327 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.327 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.340 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.340 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.340 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.399 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.400 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.403 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.403 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.403 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.407 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.407 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.407 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.441 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.441 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.441 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.475 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.476 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.476 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:20:56.484 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.484 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d4 (i3bar for output eDP1)
+[ 30/09/20 22:20:56.490 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c003a0.
+[ 30/09/20 22:20:56.491 paint_one ERROR ] Failed to bind texture for window 0x004000d4.
+[ 30/09/20 22:20:56.491 paint_one ERROR ] Window 0x004000d4 is missing painting data.
+[ 30/09/20 22:22:26.466 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c004a7.
+[ 30/09/20 22:22:26.466 paint_one ERROR ] Failed to bind texture for window 0x00a001cd.
+[ 30/09/20 22:22:26.466 paint_one ERROR ] Window 0x00a001cd is missing painting data.
+[ 01/10/20 12:38:33.372 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000aa (Discord Updater)
+[ 01/10/20 14:34:10.958 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400090 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 15:57:13.720 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000bb (Discord Updater)
+[ 01/10/20 16:06:27.881 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a00a20.
+[ 01/10/20 16:06:27.881 paint_one ERROR ] Failed to bind texture for window 0x03a0a41a.
+[ 01/10/20 16:06:27.881 paint_one ERROR ] Window 0x03a0a41a is missing painting data.
+[ 01/10/20 16:57:46.013 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040027a (The CSS Box Model: Why it's Integral to Web Design | Framer - Mozilla Firefox)
+[ 01/10/20 17:05:45.676 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400285 (exit)
+[ 01/10/20 17:07:40.290 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400292 (~/Documents/projects/bash/youtube-dl — Atom)
+[ 01/10/20 17:34:40.424 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a012d2.
+[ 01/10/20 17:34:40.481 paint_one ERROR ] Failed to bind texture for window 0x00400241.
+[ 01/10/20 17:34:40.481 paint_one ERROR ] Window 0x00400241 is missing painting data.
+[ 01/10/20 17:34:42.497 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a012f3.
+[ 01/10/20 17:34:42.499 paint_one ERROR ] Failed to bind texture for window 0x00400229.
+[ 01/10/20 17:34:42.499 paint_one ERROR ] Window 0x00400229 is missing painting data.
+[ 01/10/20 17:34:42.507 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a012f3.
+[ 01/10/20 17:34:42.507 paint_one ERROR ] Failed to bind texture for window 0x00400229.
+[ 01/10/20 17:34:42.507 paint_one ERROR ] Window 0x00400229 is missing painting data.
+[ 01/10/20 17:37:48.909 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002a4 (stylesheet.css — ~/Documents/projects/websites/boxmodel — Atom)
+[ 01/10/20 17:37:54.619 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002ac (Quit and close tabs?)
+[ 01/10/20 17:37:54.933 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002ac (Quit and close tabs?)
+[ 01/10/20 17:37:54.933 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400241 (Box Model - Mozilla Firefox)
+[ 01/10/20 17:37:55.172 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400241 (Box Model - Mozilla Firefox)
+[ 01/10/20 17:38:04.930 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002b5 (Save Document?)
+[ 01/10/20 17:38:04.950 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002b5 (Save Document?)
+[ 01/10/20 17:38:05.224 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002b5 (Save Document?)
+[ 01/10/20 17:38:34.399 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400229 (exit)
+[ 01/10/20 17:39:31.558 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002cd (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 17:39:31.818 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002cd (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 18:58:13.969 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002d8 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 18:58:14.214 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002d8 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 18:58:14.320 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004002d8 (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 01/10/20 19:18:31.773 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a017aa.
+[ 01/10/20 19:18:31.773 paint_one ERROR ] Failed to bind texture for window 0x01a0001d.
+[ 01/10/20 19:18:31.773 paint_one ERROR ] Window 0x01a0001d is missing painting data.
+[ 01/10/20 20:35:55.103 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a0198f.
+[ 01/10/20 20:35:55.103 paint_one ERROR ] Failed to bind texture for window 0x004002fd.
+[ 01/10/20 20:35:55.103 paint_one ERROR ] Window 0x004002fd is missing painting data.
+[ 01/10/20 22:15:47.233 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.274 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.316 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f00.
+[ 01/10/20 22:15:47.316 paint_one ERROR ] Failed to bind texture for window 0x00400321.
+[ 01/10/20 22:15:47.316 paint_one ERROR ] Window 0x00400321 is missing painting data.
+[ 01/10/20 22:15:47.419 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f15.
+[ 01/10/20 22:15:47.419 paint_one ERROR ] Failed to bind texture for window 0x0040034b.
+[ 01/10/20 22:15:47.419 paint_one ERROR ] Window 0x0040034b is missing painting data.
+[ 01/10/20 22:15:47.472 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.472 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.497 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f00.
+[ 01/10/20 22:15:47.497 paint_one ERROR ] Failed to bind texture for window 0x00400321.
+[ 01/10/20 22:15:47.497 paint_one ERROR ] Window 0x00400321 is missing painting data.
+[ 01/10/20 22:15:47.563 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.563 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.564 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f00.
+[ 01/10/20 22:15:47.564 paint_one ERROR ] Failed to bind texture for window 0x00400321.
+[ 01/10/20 22:15:47.564 paint_one ERROR ] Window 0x00400321 is missing painting data.
+[ 01/10/20 22:15:47.576 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f00.
+[ 01/10/20 22:15:47.576 paint_one ERROR ] Failed to bind texture for window 0x00400321.
+[ 01/10/20 22:15:47.576 paint_one ERROR ] Window 0x00400321 is missing painting data.
+[ 01/10/20 22:15:47.583 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.583 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400321 (i3bar for output eDP1)
+[ 01/10/20 22:15:47.624 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00a01f00.
+[ 01/10/20 22:15:47.624 paint_one ERROR ] Failed to bind texture for window 0x00400321.
+[ 01/10/20 22:15:47.624 paint_one ERROR ] Window 0x00400321 is missing painting data.
+[ 01/10/20 22:20:20.809 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040035f (Kodi)
+[ 01/10/20 22:20:21.281 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040035f (Kodi)
+[ 01/10/20 22:20:23.776 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400331 (Screen Layout Editor)
+[ 02/10/20 00:42:01.303 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400374 (Kodi)
+[ 02/10/20 11:13:10.442 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a3 (Discord Updater)
+[ 02/10/20 11:21:52.743 win_clear_flags WARN ] Flags cleared on a destroyed window 0x02c00015 ((null))
+[ 02/10/20 13:00:08.757 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000db (Volume Control)
+[ 02/10/20 13:37:36.028 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040010e (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 02/10/20 13:37:40.323 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400118 (blackbird@satellite: ~)
+[ 02/10/20 14:08:04.653 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040011e (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 02/10/20 14:08:04.900 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040011e (DOSBox 0.74-3, Cpu speed:     3000 cycles, Frameskip  0, Program:   DOSBOX)
+[ 02/10/20 14:35:31.289 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c008ae.
+[ 02/10/20 14:35:31.334 paint_one ERROR ] Failed to bind texture for window 0x00400103.
+[ 02/10/20 14:35:31.334 paint_one ERROR ] Window 0x00400103 is missing painting data.
+[ 02/10/20 15:28:02.296 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00c05.
+[ 02/10/20 15:28:02.335 paint_one ERROR ] Failed to bind texture for window 0x00400103.
+[ 02/10/20 15:28:02.335 paint_one ERROR ] Window 0x00400103 is missing painting data.
+[ 02/10/20 15:28:02.358 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00c05.
+[ 02/10/20 15:28:02.358 paint_one ERROR ] Failed to bind texture for window 0x00400103.
+[ 02/10/20 15:28:02.358 paint_one ERROR ] Window 0x00400103 is missing painting data.
+[ 02/10/20 15:28:02.412 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00c05.
+[ 02/10/20 15:28:02.412 paint_one ERROR ] Failed to bind texture for window 0x00400103.
+[ 02/10/20 15:28:02.412 paint_one ERROR ] Window 0x00400103 is missing painting data.
+[ 02/10/20 15:49:53.248 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040016e (Torrent Options)
+[ 02/10/20 15:50:17.959 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040017c (SexArt.20.10.02.Angelika.Lika.Star.Eden.XXX.720p.MP4-XXX Properties)
+[ 02/10/20 15:50:30.326 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e3f.
+[ 02/10/20 15:50:30.326 paint_one ERROR ] Failed to bind texture for window 0x0580469f.
+[ 02/10/20 15:50:30.326 paint_one ERROR ] Window 0x0580469f is missing painting data.
+[ 02/10/20 15:50:30.331 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e3f.
+[ 02/10/20 15:50:30.332 paint_one ERROR ] Failed to bind texture for window 0x0580469f.
+[ 02/10/20 15:50:30.332 paint_one ERROR ] Window 0x0580469f is missing painting data.
+[ 02/10/20 15:50:30.337 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e3f.
+[ 02/10/20 15:50:30.337 paint_one ERROR ] Failed to bind texture for window 0x0580469f.
+[ 02/10/20 15:50:30.337 paint_one ERROR ] Window 0x0580469f is missing painting data.
+[ 02/10/20 15:50:30.351 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e3f.
+[ 02/10/20 15:50:30.352 paint_one ERROR ] Failed to bind texture for window 0x0580469f.
+[ 02/10/20 15:50:30.352 paint_one ERROR ] Window 0x0580469f is missing painting data.
+[ 02/10/20 15:50:30.368 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00c00e3f.
+[ 02/10/20 15:50:30.368 paint_one ERROR ] Failed to bind texture for window 0x0580469f.
+[ 02/10/20 15:50:30.368 paint_one ERROR ] Window 0x0580469f is missing painting data.
+[ 02/10/20 15:50:44.265 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400186 (SexArt.20.10.02.Angelika.Lika.Star.Eden.XXX.720p.MP4-XXX Properties)
+[ 02/10/20 15:53:40.197 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001d3 (feh [2 of 6] - /home/blackbird/Desktop/MetArt.com_20.09.30.Ginger.Frost.Gallery.XXX.IMAGESET-FuGLi[rarbg]/_metart-gallery-cover.jpg)
+[ 02/10/20 15:53:40.272 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004001d3 (feh [2 of 6] - /home/blackbird/Desktop/MetArt.com_20.09.30.Ginger.Frost.Gallery.XXX.IMAGESET-FuGLi[rarbg]/_metart-gallery-cover.jpg)
+[ 02/10/20 16:02:22.997 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400223 (exit)
+[ 02/10/20 16:02:23.209 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400223 (exit)
+[ 02/10/20 16:10:15.107 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400242 (Kodi)
+[ 02/10/20 16:20:00.310 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400255 (exit)
+[ 02/10/20 16:20:02.194 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400140 (exit)
+[ 02/10/20 16:20:12.343 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400146 (blackbird@satellite: ~/Desktop)
+[ 02/10/20 16:28:09.059 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400103 (security - How do I recursively shred an entire directory tree? - Unix & Linux Stack Exchange - Tor Browser)
+[ 02/10/20 16:30:02.459 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400268 (exit)
+[ 02/10/20 16:30:02.576 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400268 (exit)
+[ 02/10/20 16:42:55.713 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400136 (Mozilla Firefox)
+[ 02/10/20 16:43:17.039 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400288 (Close Firefox)

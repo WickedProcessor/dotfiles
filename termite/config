@@ -1,0 +1,7 @@
+
+[options]
+#font=Hack Nerd Font 14px
+font = JetBrains Mono 14px
+[colors]
+foreground=#FFFFFF
+background=#000000
